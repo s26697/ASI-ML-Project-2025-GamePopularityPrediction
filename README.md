@@ -6,6 +6,3 @@ https://www.kaggle.com/datasets/artermiloff/steam-games-dataset?resource=downloa
 
 \# Released under MIT License
 Downloaded - 07.10.2025 r.
-
-
-
